@@ -7,8 +7,6 @@ Welcome to the **Titanic Data Analytics** project! This project is designed as a
 
 The project is created with the aim to:
 
-- Introduce basic Python syntax including variables, data types, and arithmetic operations.
-- Understand control flow (`if`, `for`, `while`) and user-defined functions.
 - Learn how to read, explore, and analyze datasets using Python.
 - Apply logical thinking to solve real-world problems through code.
 - Use basic data analytics techniques to uncover insights from the Titanic dataset.
