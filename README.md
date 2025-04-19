@@ -17,28 +17,6 @@ The project is created with the aim to:
 
 ---
 
-## 🏆 Goals
-
-- Build a strong foundation in Python programming for future data science projects.
-- Gain hands-on experience with real-world datasets.
-- Develop critical thinking and analytical skills.
-- Learn to perform simple exploratory data analysis (EDA).
-- Practice writing clean, well-structured Python code.
-
----
-
-## ✅ Project Outcomes
-
-- Successfully executed various Python basics (math operations, conditionals, loops, functions).
-- Explored and analyzed the Titanic dataset using:
-  - Pandas for data manipulation
-  - Basic visualizations
-  - Summary statistics
-- Generated insights about survival rates based on gender, class, and age.
-- Demonstrated the ability to combine programming logic with data-driven questions.
-
----
-
 ## 🛠️ Technologies Used
 
 - **Language**: Python 3.x  
@@ -63,27 +41,6 @@ This project is implemented to:
 - Use built-in functions and create your own functions.
 - Understand data manipulation with structures such as 'list' and 'dictionary'.
 - Apply programming logic in solving simple problems.
-
----
-
-## 🏆 Goals
-
-1. Understand the basic logic of Python programming.
-2. Write and execute code to solve simple problems.
-3. Build a foundation for learning advanced topics such as data science and machine learning.
-4. Develop logical thinking skills and  methodical.
-
----
-
-## ✅ Project Results 
-– Participants successfully write and execute basic Python code. 
-- Various concepts have been applied, such as:
-- Basic arithmetic operations
- - Branching ('if-else')
- - Recurrence ('for', 'while')
- - Function ('def')
-- Code provides the appropriate output and runs without errors.
-- Demonstrate a good understanding of basic programming concepts using Python.
 
 --- 
 
