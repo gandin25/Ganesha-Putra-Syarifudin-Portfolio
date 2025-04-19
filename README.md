@@ -1,5 +1,3 @@
-# Ganesha's Portfolio
-
 # [Project 1 - Titanic Data Analythic](https://github.com/gandin25/Titanic-Data-Analythic/blob/main/Titanic_Data_Analythic_assignment_Ganesha.ipynb)
 Welcome to the **Titanic Data Analytics** project! This project is designed as a practical introduction to Python programming and data analytics using a real-world dataset—the Titanic passenger manifest. It combines Python fundamentals with beginner-level data exploration and basic analysis.
 
